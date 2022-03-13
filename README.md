@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Senay-Fekadu2 am new here
 - 👀 I’m interested in Front end develeopment
-- 🌱 I’m currently taking intermediate CSS AND JAVASCRIPT courses
-- 💞️ I’m looking to collaborate on any UI design HTML, CSS AND Javascript coding
+- 🌱 I’m Just Finished intermediate React Course
+- 💞️ I’m looking to collaborate on any UI design HTML, CSS, Vanilla Javascript, and specially React
 - 📫 How to reach me ...
 
 <!---
